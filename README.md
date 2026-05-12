@@ -10,6 +10,6 @@ And its about
   <li>Regret</li>
 </ol>
  It has <em>Violent Contet</em>.
- The Creator of <em>The Walking Dead</em>. is the Same Creator of **Invincible**
+ The Creator of <em>The Walking Dead</em>. is the Same Creator of <em>Invincible</em>.
  
 
